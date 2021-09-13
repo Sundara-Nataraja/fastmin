@@ -1,3 +1,3 @@
 # fastmin
 
-Learning Poerty  and efficient python packaging library
+Learning Poerty[https://python-poetry.org/]  and efficient python packaging library
