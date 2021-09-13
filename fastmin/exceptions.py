@@ -1,0 +1,2 @@
+class EmptyArray(Exception):
+    pass
